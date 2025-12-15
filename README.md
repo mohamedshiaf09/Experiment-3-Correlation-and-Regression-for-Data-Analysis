@@ -82,10 +82,10 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line', 'Data points'])
 plt.grid(True)
 plt.show()
-
+```
 https://colab.research.google.com/drive/1R1ByqO6uwZrhekjj8Qrp42_iCdcBRXok?usp=sharing
 
-```
+
 # Output
 
 ```
