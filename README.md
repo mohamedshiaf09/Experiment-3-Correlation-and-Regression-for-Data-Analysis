@@ -5,7 +5,7 @@
   
   <img width="1180" height="120" alt="image" src="https://github.com/user-attachments/assets/62ba8618-34f6-4718-9233-b36f6ca975ff" />
   
-# Software Required: Python 
+# Software Required: Python  
 
 # Theory
 1. Correlation measures the strength and direction of the relationship between two variables (say, X and Y).
